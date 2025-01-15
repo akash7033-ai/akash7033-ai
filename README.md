@@ -33,14 +33,14 @@
 ---
 
 ## 📈 GitHub Stats  
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash7033-ai&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash7033-ai&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect!  
 - 🌐 **Portfolio:** [akash.dev](https://akash.dev)  
-- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)  
+- 📧 **Email:** [akash703356@gmail.com](mailto:akash703356@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/akashkumar](https://linkedin.com/in/akashkumar)
 
 ---
